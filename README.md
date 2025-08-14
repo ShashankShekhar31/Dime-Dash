@@ -46,11 +46,11 @@ This command initiates the application in development mode. It automatically ope
 
 ### Dashboard for Visualization of Sales and Purchase History
 
-![Main Image Alt Text](snapshots/dashboard.jpg)
+![Main Image Alt Text](snapshots/dashboard.png)
 
 ### Details required for Purchase Entry
 
-![Main Image Alt Text](snapshots/purchase_entry.jpg)
+![Main Image Alt Text](snapshots/purchase_entry.png)
 
 ### Details being stored in Firestore Database
 
@@ -58,15 +58,15 @@ This command initiates the application in development mode. It automatically ope
 
 ### Purchase History along with Relevant Details
 
-![Main Image Alt Text](snapshots/purchase_list.jpg)
+![Main Image Alt Text](snapshots/purchase_list.png)
 
 ### Details required for Sale Entry
 
-![Main Image Alt Text](snapshots/sale_entry.jpg)
+![Main Image Alt Text](snapshots/sale_entry.png)
 
 ### Sale History along with Relevant Details
 
-![Main Image Alt Text](snapshots/sale_list.jpg)
+![Main Image Alt Text](snapshots/sale_list.png)
 
 
 
